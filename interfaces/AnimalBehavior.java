@@ -1,7 +1,5 @@
 package interfaces;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
-
 public interface AnimalBehavior {	
      public String getAnimalName();
 	 public void setSuspended();
