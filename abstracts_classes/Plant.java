@@ -3,8 +3,6 @@ import concrete_classes.Point;
 import interfaces.Locatable;
 
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
-
 public abstract class Plant implements Locatable{
 	protected int id;
 	protected Point pointLocation;
