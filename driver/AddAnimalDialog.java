@@ -44,7 +44,6 @@ import javax.swing.event.ChangeListener;
 import abstracts_classes.Animal;
 import factories.CreateFactoryByType;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public class AddAnimalDialog extends JDialog implements ActionListener, ChangeListener {
 
