@@ -40,7 +40,6 @@ import javax.swing.KeyStroke;
 import DesignPatterns.Singleton_Worm;
 import abstracts_classes.Animal;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public class AquaFrame extends JFrame implements  ActionListener{
 
