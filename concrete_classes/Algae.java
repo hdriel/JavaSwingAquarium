@@ -3,7 +3,6 @@ import java.awt.Graphics;
 
 import abstracts_classes.Plant;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public class Algae extends Plant{
 	
