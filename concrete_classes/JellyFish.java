@@ -12,8 +12,6 @@ import driver.AquaPanel;
 import DesignPatterns.MarineFish;
 import abstracts_classes.Herbivore;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
-
 public class JellyFish extends Herbivore implements Swimmable, MarineFish{
 	
 	// Ctor with default value
