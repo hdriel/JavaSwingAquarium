@@ -27,8 +27,6 @@ import javax.swing.table.DefaultTableModel;
 
 import abstracts_classes.Animal;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
-
 public class InfoJTable extends JPanel{
 	private String[] columnNames = {"Animal", "Color", "Size", "Hor.speed", "Ver.speed", "Eat counter"};
 	private Object[][] data;
