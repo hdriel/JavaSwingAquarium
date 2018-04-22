@@ -29,8 +29,6 @@ import DesignPatterns.Observer;
 import DesignPatterns.Singleton_Worm;
 import abstracts_classes.Animal;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
-
 public class AquaPanel extends JPanel implements Runnable, Observer{
 	
 	private Image image;                     // background image of the panel 
