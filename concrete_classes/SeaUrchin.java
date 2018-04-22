@@ -8,7 +8,6 @@ import javax.swing.JPanel;
 
 import abstracts_classes.Herbivore;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public class SeaUrchin extends Herbivore{
 	// Ctor with default value
