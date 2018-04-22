@@ -14,7 +14,6 @@ import DesignPatterns.MarineFish;
 import DesignPatterns.Observer;
 import abstracts_classes.Predator;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 // close all code blocks by: Ctrl + Shift + / 
 // open  all code blocks by: Ctrl + Shift + * 
 
