@@ -17,7 +17,6 @@ import concrete_classes.Point;
 import driver.AquaPanel;
 import factories.AbstractFactory;
 
-// Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public abstract class Animal extends Thread implements Locatable, Drawable, AnimalBehavior{
 		                                                             // the color of the animal 
