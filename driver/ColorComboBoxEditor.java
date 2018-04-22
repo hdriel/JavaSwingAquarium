@@ -10,7 +10,6 @@ import javax.swing.JButton;
 import javax.swing.JColorChooser;
 import javax.swing.event.EventListenerList;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 class ColorComboBoxEditor implements ComboBoxEditor {
 	  final protected JButton editor;
