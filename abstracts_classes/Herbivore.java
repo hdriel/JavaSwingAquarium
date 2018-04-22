@@ -2,7 +2,6 @@ package abstracts_classes;
 
 import driver.AquaPanel;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public abstract class Herbivore extends Animal{
 
