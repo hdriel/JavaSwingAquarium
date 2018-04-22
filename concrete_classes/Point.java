@@ -1,5 +1,4 @@
 package concrete_classes;
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 /*
  * This class describe a point in the surface with the X,y coordinate 
