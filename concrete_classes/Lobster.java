@@ -8,7 +8,6 @@ import java.awt.Graphics2D;
 
 import abstracts_classes.Predator;
 
-//Hadriel Benjo 302185061 , campus: Be'er Sheva
 
 public class Lobster extends Predator{
 	// Ctor with default value
